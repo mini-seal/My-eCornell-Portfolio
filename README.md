@@ -6,7 +6,7 @@
 
 Welcome to "My-eCornell-Portfolio", it includes all of my Jupyter Notebook assignments from my Machine Learning Foundations course!
 
-# 🛠 Tech Stack: 
+# 🛠 Techical Skills: 
 
 * **Programming Languages:** Python, Java, C++, HTML, CSS, JavaScript (basic) 
 
@@ -20,7 +20,7 @@ Welcome to "My-eCornell-Portfolio", it includes all of my Jupyter Notebook assig
 
 Email: ali.kins258@gmail.com  
 
-LinkedIn:   
+LinkedIn:   www.linkedin.com/in/alisen-lam 
 
 # ✨ Fun Fact: 
 
